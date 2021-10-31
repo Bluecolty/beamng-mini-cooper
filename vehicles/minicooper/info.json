@@ -1,0 +1,10 @@
+{
+    "Name":"Cooper and Cooper S",
+    "Brand":"MINI",
+    "Type":"Compact",
+    "default_color":"White",
+    "colors":{
+        "White": "1 1 1 1.2",
+ 
+    }
+}

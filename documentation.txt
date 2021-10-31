@@ -1,0 +1,5 @@
+newer wiki page
+https://documentation.beamng.com/modding/vehicle/
+
+older wiki page
+https://wiki.beamng.com/Vehicle_Creation_Megapage
